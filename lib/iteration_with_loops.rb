@@ -17,4 +17,4 @@ outer_results << lowest_temp
 row_index += 1
 end
 return outer_results
-  end
+end
